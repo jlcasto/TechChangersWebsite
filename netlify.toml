@@ -4,5 +4,5 @@
 # current ones.
 
 [context.ReactRewrite]
-  command = "gulp"
+  command = "gatsby build"
   publish = "public"
