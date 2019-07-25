@@ -17,7 +17,6 @@ module.exports = {
       {
           resolve: `gatsby-plugin-netlify-cms`,
           options: {
-              enableIdentityWidget: true,
               publicPath: `admin`,
               htmlTitle: `Tech Changers Admin`,
               htmlFavicon: `src/images/cvlogo.png`,
